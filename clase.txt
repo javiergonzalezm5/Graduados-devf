@@ -1,0 +1,28 @@
+
+npm init -> instalar package.json
+
+en package jsonen scripts, agregar el start
+npm run dev
+
+crud
+
+create 
+read
+update
+delete
+
+
+npm i nodemon --save-dev
+
+
+
+esquema -> estructura
+modelo -> se reproduce la estructura
+
+
+colecci�n->tabla en sql
+documento->conj de colecciones
+
+
+
+mongoose-comunicación con DB
