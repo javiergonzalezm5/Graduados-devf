@@ -75,6 +75,12 @@ app.get('/all/graduates',(req,res)=>{
     .catch(err=> res.status(409).send(err))
 });
 
+app.get('/all/schools',(req,res)=>{
+    //Exalumno.find({nombre:'Manuel'}).exec()
+    School.find().exec()
+    .then(escuelas => res.send(escuelas))
+    .catch(err=> res.status(409).send(err))
+});
 
 
 

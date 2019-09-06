@@ -1,0 +1,1214 @@
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose
+$ pwd
+/c/Users/Alfonso Pineda/Google Drive/Devf/Roja-B33/10-Mongoose
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose
+$ git init
+Initialized empty Git repository in C:/Users/Alfonso Pineda/Google Drive/Devf/Roja-B33/10-Mongoose/.git/
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Captura.PNG
+        Captura2.PNG
+        Thumbs.db
+        clase.txt
+        exalumnos.js
+        node_modules/
+        package-lock.json
+        package.json
+        server.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git add .
+warning: LF will be replaced by CRLF in node_modules/.bin/mime.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/semver.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/array-flatten/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/array-flatten/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/array-flatten/array-flatten.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/array-flatten/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/CHANGELOG.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/all.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/allLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/allSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/any.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/anyLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/anySeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/apply.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/applyEach.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/applyEachSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/asyncify.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/auto.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/autoInject.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/bower.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/cargo.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/compose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/concat.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/concatLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/concatSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/constant.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/detect.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/detectLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/detectSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/dir.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/dist/async.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/dist/async.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/doDuring.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/doUntil.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/doWhilst.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/during.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/each.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachOf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachOfLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachOfSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/ensureAsync.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/every.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/everyLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/everySeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/filter.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/filterLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/filterSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/find.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/findLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/findSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/foldl.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/foldr.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEach.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachOf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachOfLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachOfSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachSeries.js.
+The file will have its original line endings in your working directory
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Captura.PNG
+        Captura2.PNG
+        Thumbs.db
+        clase.txt
+        exalumnos.js
+        node_modules/
+        package-lock.json
+        package.json
+        server.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Captura.PNG
+        Captura2.PNG
+        Thumbs.db
+        clase.txt
+        exalumnos.js
+        node_modules/
+        package-lock.json
+        package.json
+        server.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git add .
+warning: LF will be replaced by CRLF in node_modules/.bin/mime.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/semver.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/accepts/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/array-flatten/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/array-flatten/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/array-flatten/array-flatten.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/array-flatten/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/CHANGELOG.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/all.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/allLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/allSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/any.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/anyLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/anySeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/apply.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/applyEach.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/applyEachSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/asyncify.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/auto.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/autoInject.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/bower.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/cargo.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/compose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/concat.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/concatLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/concatSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/constant.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/detect.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/detectLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/detectSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/dir.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/dist/async.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/dist/async.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/doDuring.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/doUntil.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/doWhilst.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/during.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/each.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachOf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachOfLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachOfSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/eachSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/ensureAsync.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/every.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/everyLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/everySeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/filter.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/filterLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/filterSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/find.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/findLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/findSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/foldl.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/foldr.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEach.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachOf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachOfLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachOfSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forEachSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/forever.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/groupBy.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/groupByLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/groupBySeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/inject.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/DoublyLinkedList.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/applyEach.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/breakLoop.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/consoleFunc.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/createTester.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/doLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/doParallel.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/doParallelLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/eachOfLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/filter.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/findGetResult.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/getIterator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/initialParams.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/iterator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/map.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/notId.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/once.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/onlyOnce.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/parallel.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/queue.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/reject.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/setImmediate.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/slice.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/withoutIndex.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/internal/wrapAsync.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/log.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/map.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/mapLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/mapSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/mapValues.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/mapValuesLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/mapValuesSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/memoize.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/nextTick.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/parallel.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/parallelLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/priorityQueue.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/queue.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/race.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/reduce.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/reduceRight.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/reflect.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/reflectAll.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/reject.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/rejectLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/rejectSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/retry.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/retryable.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/select.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/selectLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/selectSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/seq.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/series.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/setImmediate.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/some.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/someLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/someSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/sortBy.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/timeout.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/times.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/timesLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/timesSeries.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/transform.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/tryEach.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/unmemoize.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/until.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/waterfall.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/whilst.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/async/wrapSync.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/changelog.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/browser/bluebird.core.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/browser/bluebird.core.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/browser/bluebird.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/browser/bluebird.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/any.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/assert.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/async.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/bind.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/bluebird.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/call_get.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/cancel.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/catch_filter.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/context.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/debuggability.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/direct_resolve.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/each.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/errors.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/es5.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/filter.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/finally.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/generators.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/join.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/map.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/method.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/nodeback.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/nodeify.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/promise.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/promise_array.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/promisify.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/props.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/queue.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/race.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/reduce.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/schedule.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/settle.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/some.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/synchronous_inspection.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/thenables.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/timers.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/using.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/js/release/util.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bluebird/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/lib/read.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/lib/types/json.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/lib/types/raw.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/lib/types/text.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/lib/types/urlencoded.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/body-parser/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/LICENSE.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/bower.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/browser_build/bson.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/browser_build/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/binary.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/bson.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/code.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/db_ref.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/decimal128.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/double.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/float_parser.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/int_32.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/long.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/map.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/max_key.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/min_key.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/objectid.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/parser/calculate_size.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/parser/deserializer.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/parser/serializer.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/parser/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/regexp.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/symbol.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/lib/bson/timestamp.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bson/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bytes/History.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bytes/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bytes/Readme.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bytes/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/bytes/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-disposition/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-disposition/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-disposition/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-disposition/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-disposition/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-type/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-type/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-type/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-type/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/content-type/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie-signature/.npmignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie-signature/History.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie-signature/Readme.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie-signature/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie-signature/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cookie/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cors/CONTRIBUTING.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cors/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cors/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cors/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cors/lib/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/cors/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/.coveralls.yml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/.eslintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/.npmignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/.travis.yml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/CHANGELOG.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/Makefile.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/component.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/karma.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/node.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/src/browser.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/src/debug.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/src/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/src/inspector-log.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/debug/src/node.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/depd/History.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/depd/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/depd/Readme.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/depd/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/depd/lib/browser/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/depd/lib/compat/callsite-tostring.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/depd/lib/compat/event-listener-count.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/depd/lib/compat/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/depd/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/destroy/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/destroy/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/destroy/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/destroy/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/ee-first/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/ee-first/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/ee-first/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/ee-first/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/encodeurl/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/encodeurl/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/encodeurl/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/encodeurl/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/encodeurl/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/escape-html/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/escape-html/Readme.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/escape-html/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/escape-html/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/etag/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/etag/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/etag/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/etag/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/etag/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/History.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/Readme.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/application.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/express.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/middleware/init.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/middleware/query.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/request.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/response.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/router/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/router/layer.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/router/route.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/lib/view.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/express/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/finalhandler/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/finalhandler/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/finalhandler/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/finalhandler/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/finalhandler/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/forwarded/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/forwarded/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/forwarded/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/forwarded/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/forwarded/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/fresh/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/fresh/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/fresh/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/fresh/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/fresh/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/http-errors/HISTORY.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/http-errors/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/http-errors/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/http-errors/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/http-errors/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/Changelog.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/dbcs-codec.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/dbcs-data.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/internal.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/sbcs-codec.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/sbcs-data-generated.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/sbcs-data.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/tables/big5-added.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/tables/cp936.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/tables/cp949.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/tables/cp950.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/tables/eucjp.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/tables/gbk-added.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/tables/shiftjis.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/utf16.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/encodings/utf7.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/lib/bom-handling.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/lib/extend-node.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/lib/index.d.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/lib/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/lib/streams.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/iconv-lite/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/inherits/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/inherits/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/inherits/inherits.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/inherits/inherits_browser.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/inherits/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/ipaddr.js/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/ipaddr.js/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/ipaddr.js/lib/ipaddr.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/ipaddr.js/lib/ipaddr.js.d.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/ipaddr.js/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/.travis.yml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/CHANGELOG.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/Makefile.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/docs.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/gulpfile.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/test/examples.test.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/test/misc.test.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/test/post.test.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/test/pre.test.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/kareem/test/wrap.test.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_DataView.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_Hash.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_LazyWrapper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_ListCache.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_LodashWrapper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_Map.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_MapCache.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_Promise.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_Set.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_SetCache.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_Stack.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_Symbol.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_Uint8Array.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_WeakMap.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_apply.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayAggregator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayEach.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayEachRight.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayEvery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayFilter.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayIncludes.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayIncludesWith.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayLikeKeys.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayMap.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayPush.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayReduce.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/lodash/_arrayReduceRight.js.
+The file will have its original line endings in your working directory
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Captura.PNG
+        Captura2.PNG
+        Thumbs.db
+        clase.txt
+        exalumnos.js
+        node_modules/
+        package-lock.json
+        package.json
+        server.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        Captura.PNG
+        Captura2.PNG
+        Thumbs.db
+        clase.txt
+        exalumnos.js
+        package-lock.json
+        package.json
+        server.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git add .
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   .gitignore
+        new file:   Captura.PNG
+        new file:   Captura2.PNG
+        new file:   Thumbs.db
+        new file:   clase.txt
+        new file:   exalumnos.js
+        new file:   package-lock.json
+        new file:   package.json
+        new file:   server.js
+
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   .gitignore
+        new file:   Captura.PNG
+        new file:   Captura2.PNG
+        new file:   Thumbs.db
+        new file:   clase.txt
+        new file:   exalumnos.js
+        new file:   package-lock.json
+        new file:   package.json
+        new file:   server.js
+
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git commit -m "Modificación puerto"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Alfonso Pineda@JGONZALEZMX.(none)')
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$  git config --global user.email javiergonzalezm5@gmail.com
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git config --global user.name "javiergonzalezm5"
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git commit -m "Modificación puerto"
+[master (root-commit) d392a72] Modificación puerto
+ 9 files changed, 773 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 Captura.PNG
+ create mode 100644 Captura2.PNG
+ create mode 100644 Thumbs.db
+ create mode 100644 clase.txt
+ create mode 100644 exalumnos.js
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 server.js
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git remote add origin https://github.com/javiergonzalezm5/Graduados-devf.git
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git remote -v
+origin  https://github.com/javiergonzalezm5/Graduados-devf.git (fetch)
+origin  https://github.com/javiergonzalezm5/Graduados-devf.git (push)
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git push origin master
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (11/11), 106.47 KiB | 2.60 MiB/s, done.
+Total 11 (delta 0), reused 0 (delta 0)
+To https://github.com/javiergonzalezm5/Graduados-devf.git
+ * [new branch]      master -> master
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git branch
+* master
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$ git checkout -b zombie
+Switched to a new branch 'zombie'
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (zombie)
+$ git branch
+  master
+* zombie
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (zombie)
+$ git checkout master
+Switched to branch 'master'
+
+Alfonso Pineda@JGONZALEZMX MINGW64 ~/Google Drive/Devf/Roja-B33/10-Mongoose (master)
+$
